@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_ic_star">64dp</dimen>
+    <dimen name="size_ic_star_land">30dp</dimen>
+    <dimen name="leftpadding8dp">8dp</dimen>
+</resources>

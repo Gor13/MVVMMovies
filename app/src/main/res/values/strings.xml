@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MVVMMovies</string>
+    <string name="poster_of_movie">Poster of movie</string>
+    <string name="most_popular">Most popular</string>
+    <string name="most_rated">Most raitng</string>
+    <string name="main_menu">Main menu</string>
+    <string name="favourites">Favourites</string>
+    <string name="start_trailer">start trailer</string>
+    <string name="title">Title:</string>
+    <string name="original_lable">Original lable:</string>
+    <string name="rating">Rating:</string>
+    <string name="release_date">Release date:</string>
+    <string name="description">Description:</string>
+    <string name="poster">Poster</string>
+    <string name="favourive_image">favourive Image</string>
+    <string name="added_to_favourite">Added to favourite</string>
+    <string name="deleted_from_favour">Deleted from favourite</string>
+    <string name="trailers">Trailers:</string>
+    <string name="reviews">Reviews:</string>
+    <string name="no_internet">You don\'t have an Internet connection!!!</string>
+</resources>
